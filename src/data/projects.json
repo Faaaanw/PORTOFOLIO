@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Project Landing Page",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://github.com/Faaaanw/LandingPage2",
+    "source": "https://faaaanw.github.io/LandingPage2/"
+  },
+  {
+    "title": "UIUX Application Design",
+    "imageSrc": "projects/Figma.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/design/9WeBLke9kMdjuwXNGTaXWl/CareNest?node-id=136-566&node-type=canvas&t=lucMaioAdTcNJ7Rx-0",
+    "source": "https://www.figma.com/proto/9WeBLke9kMdjuwXNGTaXWl/CareNest?node-id=157-2340&node-type=frame&t=lucMaioAdTcNJ7Rx-0&scaling=min-zoom&content-scaling=fixed&page-id=136%3A566&starting-point-node-id=157%3A2340"
+  }
+]

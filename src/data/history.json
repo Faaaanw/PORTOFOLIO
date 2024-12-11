@@ -1,0 +1,19 @@
+[
+    {
+      "role": "UIUX competition",
+      "organisation": "SMKN 1 CIANJUR",
+      "startDate": "Oct, 2024",
+      "endDate": "Nov, 2024",
+      "experiences": ["Worked on UIUX design"],
+      "imageSrc": "/history/smkn1.png"
+    },
+    {
+      "role": "Poster competition",
+      "organisation": "SMKN 1 CIANJUR",
+      "startDate": "Sept, 2024",
+      "endDate": "Oct, 2024",
+      "experiences": ["Making poster for IT-CAS competition"],
+      "imageSrc": "/history/smkn1.png"
+    }
+    
+  ]
