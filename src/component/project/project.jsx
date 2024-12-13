@@ -1,7 +1,7 @@
 import React from "react";
 import projects from "../../data/projects.json";
-import styles from "project.module.css";
-import { ProjectCard } from "ProjectCard"; // Ganti dengan huruf kapital
+import styles from "./project.module.css";
+import { ProjectCard } from "./ProjectCard"; // Ganti dengan huruf kapital
 
 export const Project = () => {
   return (
