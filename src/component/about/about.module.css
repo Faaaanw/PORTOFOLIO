@@ -115,22 +115,3 @@
   
 }
 
-@media screen and (max-width: 480px) {
-  .content img {
-    max-width: 100%; /* Gambar menyesuaikan lebar kontainer */
-    height: auto;
-  }
-
-  .title {
-    font-size: 24px; /* Kurangi ukuran teks */
-  }
-
-  .content {
-    padding: 10px;
-  }
-  .container {
-    margin: 0;
-    padding: 10px;
-  }
-}
-
